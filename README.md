@@ -125,5 +125,13 @@ Zero Trust jest „lepsze” w nowoczesnym świecie, bo:
   
 <img width="1046" height="556" alt="ztAAA" src="https://github.com/user-attachments/assets/d874703f-ffed-4b83-9112-fa2fd2ce6c7a" />
 
+---
+
+## Narzędzia pod poprawne wykowanie ZT:
+
+<img width="943" height="458" alt="narzedziapodZT" src="https://github.com/user-attachments/assets/834ad746-e30e-4fab-b94d-eda54a06d682" />
+
+
+
 
 
