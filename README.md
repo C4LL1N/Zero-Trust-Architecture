@@ -99,3 +99,22 @@ portalem działającym jako „strażnik” połączeń
 Dodatkowe źródła danych wspierające PE:
 
 <img width="962" height="1062" alt="dodatkowezrodka" src="https://github.com/user-attachments/assets/d24b7dd1-73e0-4c4f-bb76-86cac502f95f" />
+
+
+AAA jest prostym i sprawdzonym systemem, ale:
+
+- ufa sieci wewnętrznej
+
+- decyzje są statyczne
+
+- nie chroni przed nowoczesnymi zagrożeniami i lateral movement
+
+Zero Trust jest „lepsze” w nowoczesnym świecie, bo:
+
+- nie ufa nikomu automatycznie
+
+- kontroluje dostęp dynamicznie
+
+- monitoruje zachowania i zagrożenia
+
+- minimalizuje ryzyko przy skradzionych kontach lub urządzeniach
