@@ -1,4 +1,4 @@
-# Zero-Trust-Architecture-NIST-SP-800-207
+# Zero-Trust-Architecture Według NIST-SP-800-207
 
 ## Zero Trust podstawy:
 Zero Trust (ZT) to zbiór pomysłów:
@@ -126,4 +126,4 @@ Zero Trust jest „lepsze” w nowoczesnym świecie, bo:
 <img width="1046" height="556" alt="ztAAA" src="https://github.com/user-attachments/assets/d874703f-ffed-4b83-9112-fa2fd2ce6c7a" />
 
 
-źródła do zdjęć: https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.800-207.pdf
+
